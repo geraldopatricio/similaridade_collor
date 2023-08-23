@@ -5,7 +5,8 @@
 # similaridade_collor
 ## Objetivo
 ```bash
-Sistema comparativo de cores em uma unica image para validação de percentual de similaridade para produtos laboratorias
+Sistema comparativo de cores em uma unica image para validação de
+percentual de similaridade para produtos laboratorias
 ```
 
 ## Requisitos
